@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class PostModel {\n  constructor(item) {\n    this.id = item.id;\n    this.title = item.title;\n    this.description = item.description;\n    this.status = item.status;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
